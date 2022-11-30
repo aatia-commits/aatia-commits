@@ -3,7 +3,6 @@
 </br>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-atia) 
-[![HackerRank](https://img.shields.io/badge/-HackerRank-brightgreen?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Abdelrahman_Atia)
 ![Profile Views](https://komarev.com/ghpvc/?username=abdelrahman-atia)
 
 <br>
