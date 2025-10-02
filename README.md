@@ -2,8 +2,7 @@
 </br>
 </br>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-atia) 
-![Profile Views](https://komarev.com/ghpvc/?username=abdelrahman-atia)
+![Profile Views](https://komarev.com/ghpvc/?username=aatia-commits)
 
 <br>
 
@@ -13,6 +12,6 @@
 <br>
 
 
-![Abdelrahman Atia github stats](https://github-readme-stats.vercel.app/api?username=abdelrahman-atia&show_icons=true&count_private=true&hide_border=true&theme=gotham)
+![github stats](https://github-readme-stats.vercel.app/api?username=aatia-commits&show_icons=true&count_private=true&hide_border=true&theme=gotham)
 
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abdelrahman_atia)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aatia-commits)](https://github.com/anuraghazra/github-readme-stats) -->
